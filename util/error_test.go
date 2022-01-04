@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mpppk/gwcli/util"
+	"github.com/gueencode/gwcli/util"
 )
 
 func TestPrettyPrintError(t *testing.T) {

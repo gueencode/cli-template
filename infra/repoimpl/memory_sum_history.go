@@ -3,8 +3,8 @@ package repoimpl
 import (
 	"log"
 
-	"github.com/mpppk/gwcli/domain/model"
-	"github.com/mpppk/gwcli/domain/repository"
+	"github.com/gueencode/gwcli/domain/model"
+	"github.com/gueencode/gwcli/domain/repository"
 )
 
 // MemorySumHistory represents on memory repository of sum history

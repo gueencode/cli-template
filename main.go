@@ -1,6 +1,6 @@
 package main
 
-import "github.com/mpppk/gwcli/cmd"
+import "github.com/gueencode/gwcli/cmd"
 
 func main() {
 	cmd.Execute()

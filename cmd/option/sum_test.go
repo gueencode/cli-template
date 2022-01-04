@@ -3,7 +3,7 @@ package option_test
 import (
 	"testing"
 
-	"github.com/mpppk/gwcli/cmd/option"
+	"github.com/gueencode/gwcli/cmd/option"
 )
 
 func TestSumCmdConfig_HasOut(t *testing.T) {

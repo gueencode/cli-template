@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mpppk/gwcli/util"
+	"github.com/gueencode/gwcli/util"
 
-	"github.com/mpppk/gwcli/cmd/option"
+	"github.com/gueencode/gwcli/cmd/option"
 
 	"github.com/spf13/afero"
 

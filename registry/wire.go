@@ -7,12 +7,12 @@ package registry
 
 import (
 	"github.com/google/wire"
+	"github.com/gueencode/gwcli/domain/model"
+	"github.com/gueencode/gwcli/handler"
+	"github.com/gueencode/gwcli/infra"
+	"github.com/gueencode/gwcli/infra/repoimpl"
+	"github.com/gueencode/gwcli/usecase"
 	"github.com/labstack/echo"
-	"github.com/mpppk/gwcli/domain/model"
-	"github.com/mpppk/gwcli/handler"
-	"github.com/mpppk/gwcli/infra"
-	"github.com/mpppk/gwcli/infra/repoimpl"
-	"github.com/mpppk/gwcli/usecase"
 )
 
 // InitializeHandler initialize handlers with memorySumHistoryRepository

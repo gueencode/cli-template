@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
+	"github.com/gueencode/gwcli/usecase"
 	"github.com/labstack/echo"
-	"github.com/mpppk/gwcli/usecase"
 )
 
 // Handlers represent handlers of echo server

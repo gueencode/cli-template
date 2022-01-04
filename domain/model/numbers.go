@@ -3,7 +3,7 @@ package model
 import (
 	"math"
 
-	"github.com/mpppk/gwcli/util"
+	"github.com/gueencode/gwcli/util"
 )
 
 // Numbers represents numbers

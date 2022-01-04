@@ -1,8 +1,8 @@
 package domain
 
 import (
-	"github.com/mpppk/gwcli/domain/model"
-	"github.com/mpppk/gwcli/util"
+	"github.com/gueencode/gwcli/domain/model"
+	"github.com/gueencode/gwcli/util"
 )
 
 // NewNumbersFromStringSlice create new Numbers with numbers from string slice

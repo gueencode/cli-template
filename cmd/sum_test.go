@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/afero"
 
-	"github.com/mpppk/gwcli/cmd"
+	"github.com/gueencode/gwcli/cmd"
 )
 
 func TestSum(t *testing.T) {

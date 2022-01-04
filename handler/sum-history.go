@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/mpppk/gwcli/domain/model"
+	"github.com/gueencode/gwcli/domain/model"
 
 	"github.com/labstack/echo"
 )

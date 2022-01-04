@@ -7,12 +7,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/mpppk/gwcli/infra"
-	"github.com/mpppk/gwcli/registry"
+	"github.com/gueencode/gwcli/infra"
+	"github.com/gueencode/gwcli/registry"
 
 	"github.com/labstack/echo"
 
-	"github.com/mpppk/gwcli/handler"
+	"github.com/gueencode/gwcli/handler"
 )
 
 func TestSum(t *testing.T) {

@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/mpppk/gwcli/cmd/option"
-	"github.com/mpppk/gwcli/registry"
+	"github.com/gueencode/gwcli/cmd/option"
+	"github.com/gueencode/gwcli/registry"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"
 

@@ -8,11 +8,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mpppk/gwcli/domain"
+	"github.com/gueencode/gwcli/domain"
 
-	"github.com/mpppk/gwcli/domain/model"
+	"github.com/gueencode/gwcli/domain/model"
 
-	"github.com/mpppk/gwcli/util"
+	"github.com/gueencode/gwcli/util"
 )
 
 func TestNewNumbers(t *testing.T) {

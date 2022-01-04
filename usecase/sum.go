@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/mpppk/gwcli/domain/model"
-	"github.com/mpppk/gwcli/domain/repository"
+	"github.com/gueencode/gwcli/domain/model"
+	"github.com/gueencode/gwcli/domain/repository"
 )
 
 // Sum represents usecases related sum calculation

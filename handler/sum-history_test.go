@@ -6,13 +6,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mpppk/gwcli/registry"
+	"github.com/gueencode/gwcli/registry"
 
-	"github.com/mpppk/gwcli/domain/model"
+	"github.com/gueencode/gwcli/domain/model"
 
 	"github.com/labstack/echo"
 
-	"github.com/mpppk/gwcli/handler"
+	"github.com/gueencode/gwcli/handler"
 )
 
 func TestSumHistory(t *testing.T) {
