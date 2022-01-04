@@ -1,8 +1,9 @@
 package model
 
 import (
-	"github.com/mpppk/cli-template/util"
 	"math"
+
+	"github.com/mpppk/gwcli/util"
 )
 
 // Numbers represents numbers

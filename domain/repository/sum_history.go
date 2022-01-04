@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/mpppk/cli-template/domain/model"
+import "github.com/mpppk/gwcli/domain/model"
 
 // SumHistory represents repository to manage history of sum calculation
 type SumHistory interface {

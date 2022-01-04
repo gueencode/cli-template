@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/mpppk/cli-template/cmd/option"
-	"github.com/mpppk/cli-template/registry"
+	"github.com/mpppk/gwcli/cmd/option"
+	"github.com/mpppk/gwcli/registry"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"
 
