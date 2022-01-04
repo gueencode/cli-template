@@ -1,4 +1,4 @@
-module github.com/mpppk/gwcli
+module github.com/gueencode/gwcli
 
 go 1.14
 

@@ -2,7 +2,7 @@ version: "{build}"
 
 platform: x64
 
-clone_folder: c:\gopath\src\github.com\mpppk\gwcli
+clone_folder: c:\gopath\src\github.com\gueencode\gwcli
 
 environment:
   GOPATH: c:\gopath
